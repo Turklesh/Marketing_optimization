@@ -1,1 +1,1 @@
-![Test Case Description](Task_Summary.png)
+![Test Case Description](Marketing_optimization_summary.png)
